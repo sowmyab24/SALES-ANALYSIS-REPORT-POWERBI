@@ -17,5 +17,14 @@ This repository contains a Power BI report designed to analyze and visualize sal
 - **DAX (Data Analysis Expressions)**
 - **Data Modeling**
 - **Interactive Visuals & Slicers**
+- **Excel: For initial data cleaning and analysis.**
 
-- 
+## Data Insights
+The dashboard includes the following key metrics:
+
+- Total Sales
+- Total Boxes Sold
+- Shipment Count
+- Average Cost per Box
+- LBS % (Low box shipments percentage)
+
