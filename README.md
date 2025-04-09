@@ -59,7 +59,7 @@ The dashboard includes the following key metrics:
 
 ## Sales analysis Report:
 
-SCREENSHOT:[Screenshot 2025-04-09 132436.png](url)
+
 
 
 
