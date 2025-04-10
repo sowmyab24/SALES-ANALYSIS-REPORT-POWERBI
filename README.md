@@ -58,6 +58,7 @@ The dashboard includes the following key metrics:
    - Apply consistent color themes, fonts, and layouts for visual appeal and clarity.
 
 ## Sales analysis Report:
+![Image](https://github.com/user-attachments/assets/fa21aa04-0ea4-409b-987e-6eba256ebb24)
 
 
 
